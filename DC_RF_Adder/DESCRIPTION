@@ -1,0 +1,7 @@
+<h1>Basic summing op-amp circuit</h1>
+
+<p>Made to add a dither to a DC voltage, eg, for dithering a VCO to put sidebands on the RF frequency, or dithering the amplitude of an AOM.</p>
+
+<p>However, basic circuit takes IN1, IN2 -> OUT, where OUT = -(IN1+IN2).</p>
+
+<p>With given component values, "DC" (ie, IN1) bandwidth is ~250kHz, while "RF" (IN2) bandwidth is ~2.5MHz. There is also a default 12dB (1/4 x) attenuation, which can be removed by not placing the appropriate resistors.</p>
