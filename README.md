@@ -5,7 +5,7 @@ This repository hosts (mostly, but not exclusively!) eagle projects for circuits
 ## Getting started
 
 First, download Eagle. There is a free version available, or ask around for
-the site license. Then, configure your Eagle according to [eagle-config](https://github.com/JQIamo/eagle-config|eagle-config).
+the site license. Then, configure your Eagle according to [eagle-config](https://github.com/JQIamo/eagle-config).
 
 ## Beginning a new project
 
