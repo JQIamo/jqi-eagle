@@ -2,3 +2,9 @@
 <p>Transimpedance amplifier for RF photodiode signals. Designed to operate at the shot noise limit.</p>
 
 <p>For signals which require a DC component, use a different circuit!</p>
+
+<p>Mounting: This board will fit inside a standard SM1 lens tube from Thorlabs.
+You will also need the auxiliary power board, which also fits in an SM1 mount,
+and does filtering/line regulation from +15V. The two are jumpered together 
+using UMC cable.
+</p>
