@@ -1,0 +1,4 @@
+<h1>RF Transimpedance Amplifier</h1>
+<p>Transimpedance amplifier for RF photodiode signals. Designed to operate at the shot noise limit.</p>
+
+<p>For signals which require a DC component, use a different circuit!</p>
