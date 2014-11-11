@@ -7,15 +7,10 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/Users/npisenti/Documents/jqi/eagle-config/lbr-jqi/opamp-jqi.lbr"
-UsedLibrary="/Users/npisenti/Documents/jqi/eagle-config/lbr-jqi/pinhead.lbr"
-UsedLibrary="/Users/npisenti/Documents/jqi/eagle-config/lbr-jqi/rlc-jqi.lbr"
-UsedLibrary="/Users/npisenti/Documents/jqi/eagle-config/lbr-jqi/supply1.lbr"
-UsedLibrary="/Users/npisenti/Documents/jqi/eagle-config/lbr-jqi/connector-jqi.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="561 85 1406 486"
+Loc="0 0 599 399"
 State=2
 Number=0
 
