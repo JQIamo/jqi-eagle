@@ -15,7 +15,7 @@ UsedLibrary="/Users/npisenti/Documents/jqi/eagle-config/lbr-jqi/connector-jqi.lb
 
 [Win_1]
 Type="Control Panel"
-Loc="715 47 1314 446"
+Loc="561 85 1406 486"
 State=2
 Number=0
 
