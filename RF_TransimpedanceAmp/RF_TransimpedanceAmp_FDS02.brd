@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.005" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.0005" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -792,7 +792,7 @@ design rules under a new name.</description>
 </polygon>
 <via x="48.26" y="19.05" extent="1-16" drill="0.6"/>
 <via x="50.8" y="8.89" extent="1-16" drill="0.6"/>
-<via x="55.118" y="15.113" extent="1-16" drill="0.6"/>
+<via x="55.1434" y="15.1511" extent="1-16" drill="0.6"/>
 <via x="68.326" y="31.75" extent="1-16" drill="0.6"/>
 <via x="31.75" y="30.988" extent="1-16" drill="0.6"/>
 <via x="9.652" y="17.272" extent="1-16" drill="0.6"/>
