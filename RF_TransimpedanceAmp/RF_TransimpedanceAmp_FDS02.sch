@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -1500,10 +1500,9 @@
 <sheets>
 <sheet>
 <plain>
-<text x="96.52" y="73.66" size="1.778" layer="91">use ADM7150 for +5, +3.3V regulators</text>
 <text x="-147.32" y="16.51" size="1.778" layer="91" rot="R90">will test to see how much filtering is needed...</text>
-<text x="-33.02" y="-17.78" size="1.778" layer="91" rot="R180">Do we need a -5V supply??</text>
 <text x="-72.39" y="40.64" size="1.778" layer="91">compare vs (eg) a FET-input op amp? Since low transimpedance gain, probably want a FET.</text>
+<text x="99.06" y="104.14" size="1.778" layer="91">low noise -5V regulator, eg, ADM7150?</text>
 </plain>
 <instances>
 <instance part="IC3" gate="G$1" x="50.8" y="44.45"/>
