@@ -2,7 +2,7 @@
 
 This repository (now a single README file) lists the electronics/instrumentation circuits designed and built at the JQI.
 
-As of commit ac6f3059ffcecc210dcfaeac3f5a702c11303dd0, individual electronics design projects are split into their own individual git repository. This is more in line with the git versioning philosophy, and will generally make life easier.
+As of commit [ac6f3059ff](https://github.com/JQIamo/jqi-eagle/tree/ac6f3059ffcecc210dcfaeac3f5a702c11303dd0), individual electronics design projects are split into their own individual git repository. This is more in line with the git versioning philosophy, and will generally make life easier.
 
 Because each project now has a separate repository, this README page should be used to host a quick one or two sentence description of each project, and a link to the corresponding repository.
 
