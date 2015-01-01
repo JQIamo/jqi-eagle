@@ -28,16 +28,24 @@ For now, probably on the JQI wiki. But, ultimately I feel it makes the most sens
 
 ## AOM Driver
 
-Details to come soon.
+[https://github.com/JQIamo/aom-driver](https://github.com/JQIamo/aom-driver)
+
+2W AOM driver, with several fun bells and whistles. Includes an integrated VCO (with optional external RF input), power attenuation control, and integrated PI feedback control to either stabalize RF power or optical power in an intensity lock setup.
 
 ## DC/RF Adder
 
-Details to come soon.
+[https://github.com/JQIamo/dc-rf-adder](https://github.com/JQIamo/dc-rf-adder)
+
+Simple 4-channel op-amp adder circuit, to add a DC offset to an RF signal. "DC" input has ~ 200kHz bandwidth, and "RF" input has ~ 2.5 MHz bandwidth. See project page for more details and measured transfer function.
 
 ## RF Transimpedance Amplifier
 
-Details to come soon.
+[https://github.com/JQIamo/rf-transimpedance-amplifier](https://github.com/JQIamo/rf-transimpedance-amplifier)
+
+AC-coupled transimpedance amplifier, desigend for use in (eg) beatnote or PDH locking.
 
 ## Rotary Encoder Breakout
 
-Details to come soon.
+[https://github.com/JQIamo/rotary-encoder-breakout](https://github.com/JQIamo/rotary-encoder-breakout)
+
+Breakout boards for use with the Bounrs PEC09-series rotary encoder. Includes a breakout adapter to interface with an Arduino, and supports daisy-chaning several encoders on the same signal line using CAT5 cable. Useful for placing DAC control knobs around the lab.
