@@ -49,3 +49,9 @@ AC-coupled transimpedance amplifier, desigend for use in (eg) beatnote or PDH lo
 [https://github.com/JQIamo/rotary-encoder-breakout](https://github.com/JQIamo/rotary-encoder-breakout)
 
 Breakout boards for use with the Bounrs PEC09-series rotary encoder. Includes a breakout adapter to interface with an Arduino, and supports daisy-chaning several encoders on the same signal line using CAT5 cable. Useful for placing DAC control knobs around the lab.
+
+## Low noise 5A linear power supply for Eurocard boxes
+
+[https://github.com/JQIamo/Low-noise-5A-power-supply](https://github.com/JQIamo/Low-noise-5A-power-supply)
+
+This +- 15 V power supply has a ripple of 400uV at full load. It has a form factor that makes it easy to be mounted on the back panel of a 4U 19'' box. It is intended as a replacement for Power-One modules.
