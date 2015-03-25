@@ -55,3 +55,10 @@ Breakout boards for use with the Bounrs PEC09-series rotary encoder. Includes a 
 [https://github.com/JQIamo/Low-noise-5A-power-supply](https://github.com/JQIamo/Low-noise-5A-power-supply)
 
 This +- 15 V power supply has a ripple of 400uV at full load. It has a form factor that makes it easy to be mounted on the back panel of a 4U 19'' box. It is intended as a replacement for Power-One modules.
+
+## Compact high voltage driver for piezo actuators
+
+This compact piezo high voltage driver has its own internal low power high voltage source, is compatibile with Eurocard backplane and has a limited (24 Vpp) range of modulation around an arbitrary set point. 
+Designed by Swarnav Banik, Neal Pisenti and Alessandro Restelli Joint Quantum Institute.
+
+[https://github.com/JQIamo/piezo-compact-high-voltage-driver](https://github.com/JQIamo/piezo-compact-high-voltage-driver)
